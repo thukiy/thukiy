@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Thuvaraka 👋
 
-<!--
-**thukiy/thukiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on backend development and student of
+Computational and Data Science at FH Graubünden (University of Applied
+Sciences of the Grisons).
 
-Here are some ideas to get you started:
+## 🔭 Currently learning
+- DevOps in the CDS212 module (Git, CI/CD, containers)
+- Data analysis and machine learning as part of my studies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+- **Languages:** Java, Python, Angular, React.js
+- **Frameworks:** Spring Boot
+- **Databases:** MongoDB, SQL
+- **Tools:** Git, GitHub, Maven, IntelliJ IDEA
+
+## 🌍 Languages
+German, Tamil, English, Italian, French
+
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/…](www.linkedin.com/in/thuvaraka-y-817870380)
+- Email: thuvaraka.yogarajah@gmail.com
