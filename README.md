@@ -10,9 +10,7 @@ Sciences of the Grisons).
 
 ## 🛠️ Tech stack
 - **Languages:** Java, Python, Angular, React.js
-- **Frameworks:** Spring Boot
-- **Databases:** MongoDB, SQL
-- **Tools:** Git, GitHub, Maven, IntelliJ IDEA
+- **Databases:** MongoDB, PostgreSQL
 
 ## 🌍 Languages
 German, Tamil, English, Italian, French
